@@ -1,0 +1,23 @@
+{
+  "name": "movieappmongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeelzhub/movieAppmogos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeelzhub/movieAppmogos/issues"
+  },
+  "homepage": "https://github.com/adeelzhub/movieAppmogos#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.1.1"
+  },
+  "description": ""
+}
