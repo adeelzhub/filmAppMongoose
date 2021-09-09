@@ -1,23 +1,23 @@
 {
-  "name": "movieappmongo",
+  "name": "filmappmongoose",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adeelzhub/movieAppmogos.git"
+    "url": "git+https://github.com/adeelzhub/filmAppMongoose.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adeelzhub/movieAppmogos/issues"
+    "url": "https://github.com/adeelzhub/filmAppMongoose/issues"
   },
-  "homepage": "https://github.com/adeelzhub/movieAppmogos#readme",
+  "homepage": "https://github.com/adeelzhub/filmAppMongoose#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "mongodb": "^4.1.1"
-  },
-  "description": ""
+    "mongoose": "^6.0.5"
+  }
 }
